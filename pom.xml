@@ -111,9 +111,9 @@
                         </goals>
                         <configuration>
                             <outputDirectory>${project.build.directory}/site/cucumber-reports</outputDirectory>
-                            <cucumberOutput>${project.build.directory}/site/cucumber.json</cucumberOutput>
-                            <enableFlashCharts>true</enableFlashCharts>
-                            <skippedFails>true</skippedFails>
+<!--                            <cucumberOutput>${project.build.directory}/site/cucumber.json</cucumberOutput>-->
+<!--                            <enableFlashCharts>true</enableFlashCharts>-->
+<!--                            <skippedFails>true</skippedFails>-->
                         </configuration>
                     </execution>
                 </executions>
